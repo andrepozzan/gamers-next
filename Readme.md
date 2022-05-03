@@ -1,4 +1,4 @@
-# Gamers Next
+# Gamers Next <img aling="center" alt="css" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"><img aling="center" alt="html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 
 This is a website for a fictitious company, created to train my skills
 
