@@ -6,4 +6,4 @@ If you have any recommendations or want to report a bug, you can get in touch.  
 
 ## To view
 
-:octocat: Go to github pages to access the page: <a href="andrepozzan.github.io/gamers-next/" target="_blank">andrepozzan.github.io/gamers-next/</a>
+:octocat: Go to github pages to access the page: <a href="https://andrepozzan.github.io/gamers-next/" target="_blank">andrepozzan.github.io/gamers-next/</a>
